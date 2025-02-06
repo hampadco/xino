@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\xino.bundle.scp.css",
+      "PackagePath": "staticwebassets\\xino.f5ld6kzpzy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\common_style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\common_style.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home_1.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\lib\\all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\lib\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\lib\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\lib\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\lib\\lity.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\lity.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\lib\\swiper8.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lib\\swiper8.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\avatar1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar1.png"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\caret-left-solid.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\caret-left-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\layers.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\layers.svg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio1\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\common.js",
+      "PackagePath": "staticwebassets\\assets\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\gsap_lib\\ScrollSmoother.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gsap_lib\\ScrollSmoother.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\gsap_lib\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gsap_lib\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\gsap_lib\\SplitText.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gsap_lib\\SplitText.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\gsap_lib\\gsap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gsap_lib\\gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\home_1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home_1.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\jquery-migrate-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\jquery-migrate-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\lity.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\lity.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\parallaxie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\parallaxie.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\swiper8-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\swiper8-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\lib\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lib\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\js\\portfolio.js",
+      "PackagePath": "staticwebassets\\assets\\js\\portfolio.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.xino.props",
+      "PackagePath": "build\\xino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.xino.props",
+      "PackagePath": "buildMultiTargeting\\xino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.xino.props",
+      "PackagePath": "buildTransitive\\xino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.xino.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.xino.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

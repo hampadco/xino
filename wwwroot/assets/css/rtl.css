@@ -1,0 +1,452 @@
+/* تنظیمات کلی RTL */
+body {
+    direction: rtl;
+    text-align: right;
+    font-family: "Vazirmatn", system-ui, -apple-system, sans-serif !important;
+}
+
+/* اصلاح منو */
+.navbar-nav {
+    padding-right: 0;
+    margin-right: auto !important;
+    margin-left: 0 !important;
+}
+
+.navbar .navbar-nav .nav-link {
+    padding: 10px 0 10px 30px;
+}
+
+/* اصلاح کلاس‌های مارجین و پدینگ */
+.me-20 {
+    margin-left: 20px !important;
+    margin-right: 0 !important;
+}
+
+.ms-2 {
+    margin-right: 0.5rem !important;
+    margin-left: 0 !important;
+}
+
+.ms-auto {
+    margin-right: auto !important;
+    margin-left: 0 !important;
+}
+
+.me-2 {
+    margin-left: 0.5rem !important;
+    margin-right: 0 !important;
+}
+
+/* اصلاح آیکون‌ها */
+.fal.fa-plus {
+    transform: scaleX(-1);
+}
+
+.fal.fa-arrow-down-right {
+    transform: scaleX(-1);
+}
+
+/* اصلاح تکست‌های چرخان */
+.rotate-circle {
+    direction: ltr;
+}
+
+/* اصلاح گرید‌ها */
+.text-lg-end {
+    text-align: left !important;
+}
+
+/* اصلاح اسلایدر‌ها */
+.swiper-button-next {
+    transform: scaleX(-1);
+}
+
+.swiper-button-prev {
+    transform: scaleX(-1);
+}
+
+/* اصلاح آواتارها */
+.avatar-wrapper .arrow {
+    transform: scaleX(-1);
+}
+
+/* اصلاح فوتر */
+.social-links a {
+    margin-left: 30px;
+    margin-right: 0;
+}
+
+.social-links a:last-child {
+    margin-left: 0;
+}
+
+/* استایل‌های لودر فارسی */
+.persian-loader {
+    font-family: 'Vazirmatn', sans-serif !important;
+    font-size: 28px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.persian-loader .dots {
+    display: inline-flex;
+    gap: 2px;
+    margin-right: 5px;
+}
+
+.persian-loader .dots span {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.3;
+}
+
+.persian-loader .dots span:nth-child(1) {
+    animation: loaderDot 1s infinite;
+}
+
+.persian-loader .dots span:nth-child(2) {
+    animation: loaderDot 1s infinite 0.1s;
+}
+
+.persian-loader .dots span:nth-child(3) {
+    animation: loaderDot 1s infinite 0.2s;
+}
+
+@keyframes loaderDot {
+    0% { opacity: 0.3; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.3); }
+    100% { opacity: 0.3; transform: scale(1); }
+}
+
+/* اصلاح استایل‌های اصلی لودر */
+.loader-wrap .load-text {
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+
+.loader-wrap-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+/* استایل‌های لودر جدید */
+.loading-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.loading-text {
+    font-family: 'Vazirmatn', sans-serif;
+    font-size: 24px;
+    color: #fff;
+    letter-spacing: 0;
+}
+
+.loading-spinner {
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.spinner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 3px solid transparent;
+    border-top-color: #fff;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+.spinner:before {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border: 3px solid transparent;
+    border-top-color: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* اصلاح استایل‌های اصلی لودر */
+.loader-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.3s ease;
+}
+
+.loader-wrap-heading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+/* استایل لینک‌های نمونه کار */
+.portfolio-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+.portfolio-link:hover {
+    color: inherit;
+    opacity: 0.9;
+}
+
+.portfolio-link .img {
+    transition: all 0.3s ease;
+}
+
+.portfolio-link:hover .img {
+    transform: translateY(-5px);
+}
+
+/* استایل‌های صفحه نمونه کار */
+.portfolio-filters {
+    margin-bottom: 50px;
+}
+
+.filter-btn {
+    background: transparent;
+    border: none;
+    color: #fff;
+    padding: 8px 20px;
+    margin: 0 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    opacity: 0.7;
+}
+
+.filter-btn::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: all 0.3s ease;
+}
+
+.filter-btn.active::after,
+.filter-btn:hover::after {
+    width: 80%;
+}
+
+.filter-btn.active {
+    opacity: 1;
+}
+
+.portfolio-items {
+    margin: 0 -15px;
+}
+
+.portfolio-item {
+    padding: 15px;
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+}
+
+.portfolio-item.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.portfolio-item:not(.show) {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.portfolio-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.portfolio-img {
+    position: relative;
+    overflow: hidden;
+}
+
+.portfolio-img img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    transition: all 0.5s ease;
+}
+
+.portfolio-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: all 0.4s ease;
+}
+
+.portfolio-card:hover .portfolio-overlay {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.portfolio-card:hover .portfolio-img img {
+    transform: scale(1.1);
+}
+
+.overlay-content {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+
+.overlay-content .category {
+    font-size: 14px;
+    opacity: 0.8;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.overlay-content .title {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.overlay-content .details {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.view-project {
+    display: inline-block;
+    padding: 8px 25px;
+    border: 1px solid #fff;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.view-project:hover {
+    background: #fff;
+    color: #000;
+}
+
+/* استایل‌های صفحه جزئیات پروژه */
+.project-header {
+    position: relative;
+}
+
+.project-header .category {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    display: block;
+}
+
+.project-meta {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 30px;
+}
+
+.meta-item {
+    margin-bottom: 20px;
+}
+
+.meta-item .label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    display: block;
+    margin-bottom: 5px;
+}
+
+.meta-item .value {
+    font-size: 18px;
+    color: #fff;
+}
+
+.project-gallery img {
+    transition: all 0.3s ease;
+}
+
+.project-gallery img:hover {
+    transform: scale(1.02);
+}
+
+.description-content {
+    line-height: 1.8;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+}
+
+.feature-list li {
+    position: relative;
+    padding-right: 20px;
+    margin-bottom: 15px;
+}
+
+.feature-list li:before {
+    content: '•';
+    position: absolute;
+    right: 0;
+    color: #fff;
+}
+
+.similar-projects .project-card {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+.similar-projects .project-card:hover {
+    transform: translateY(-5px);
+}
+
+.similar-projects .project-card .category {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+} 
