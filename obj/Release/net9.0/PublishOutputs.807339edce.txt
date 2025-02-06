@@ -1,0 +1,7 @@
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\xino.exe
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\appsettings.Development.json
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\appsettings.json
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\xino.dll
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\xino.deps.json
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\xino.runtimeconfig.json
+C:\Users\asemn\Desktop\xinosaze - mvc\publish\xino.pdb

@@ -118,8 +118,8 @@ main {
 
 .ui-about-st1 {
   position: relative; }
-  .ui-about-st1 .txt {
-    text-indent: 80px; }
+  /* .ui-about-st1 .txt {
+    text-indent: 80px; } */
   .ui-about-st1 .rotate-box {
     position: relative;
     width: 180px;
