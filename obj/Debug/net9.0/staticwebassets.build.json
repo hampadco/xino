@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X9tbR6TDzybYloQUHDujnaSzaC1hLV5VN8HTaGcnmeU=",
+  "Hash": "4KXndbczobvvfxhL/GhHGNUeG4uN4cUUe1UxURo34X0=",
   "Source": "xino",
   "BasePath": "_content/xino",
   "Mode": "Default",
@@ -1046,12 +1046,12 @@
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-9nk614d67x.gz",
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-766nkrr03f.gz",
       "SourceId": "xino",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/xino",
-      "RelativePath": "assets/css/home_1#[.{fingerprint=9nk614d67x}]?.css.gz",
+      "RelativePath": "assets/css/home_1#[.{fingerprint=766nkrr03f}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y7r5nvk9ab",
-      "Integrity": "Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow=",
+      "Fingerprint": "57df5908wk",
+      "Integrity": "byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css"
@@ -1865,12 +1865,12 @@
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-nbtnnessa8.gz",
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-bjiynw4yh8.gz",
       "SourceId": "xino",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/xino",
-      "RelativePath": "assets/css/rtl#[.{fingerprint=nbtnnessa8}]?.css.gz",
+      "RelativePath": "assets/css/rtl#[.{fingerprint=bjiynw4yh8}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1879,8 +1879,8 @@
       "RelatedAsset": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\rtl.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xquns92x1q",
-      "Integrity": "l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw=",
+      "Fingerprint": "93lzjba04h",
+      "Integrity": "hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\rtl.css"
@@ -2089,8 +2089,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9nk614d67x",
-      "Integrity": "BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk=",
+      "Fingerprint": "766nkrr03f",
+      "Integrity": "AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\home_1.css"
@@ -2236,8 +2236,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nbtnnessa8",
-      "Integrity": "MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc=",
+      "Fingerprint": "bjiynw4yh8",
+      "Integrity": "qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\rtl.css"
@@ -4622,8 +4622,8 @@
       ]
     },
     {
-      "Route": "assets/css/home_1.9nk614d67x.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-9nk614d67x.gz",
+      "Route": "assets/css/home_1.766nkrr03f.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-766nkrr03f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4642,11 +4642,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow=\""
+          "Value": "\"byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:29 GMT"
+          "Value": "Thu, 06 Feb 2025 07:31:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4666,13 +4666,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk=\""
+          "Value": "W/\"AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9nk614d67x"
+          "Value": "766nkrr03f"
         },
         {
           "Name": "label",
@@ -4680,12 +4680,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk="
+          "Value": "sha256-AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ="
         }
       ]
     },
     {
-      "Route": "assets/css/home_1.9nk614d67x.css",
+      "Route": "assets/css/home_1.766nkrr03f.css",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4695,7 +4695,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23610"
+          "Value": "23611"
         },
         {
           "Name": "Content-Type",
@@ -4703,11 +4703,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk=\""
+          "Value": "\"AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:29 GMT"
+          "Value": "Thu, 06 Feb 2025 07:31:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4717,7 +4717,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9nk614d67x"
+          "Value": "766nkrr03f"
         },
         {
           "Name": "label",
@@ -4725,13 +4725,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk="
+          "Value": "sha256-AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ="
         }
       ]
     },
     {
-      "Route": "assets/css/home_1.9nk614d67x.css.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-9nk614d67x.gz",
+      "Route": "assets/css/home_1.766nkrr03f.css.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-766nkrr03f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4748,11 +4748,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow=\""
+          "Value": "\"byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:29 GMT"
+          "Value": "Thu, 06 Feb 2025 07:31:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4770,7 +4770,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9nk614d67x"
+          "Value": "766nkrr03f"
         },
         {
           "Name": "label",
@@ -4778,13 +4778,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow="
+          "Value": "sha256-byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw="
         }
       ]
     },
     {
       "Route": "assets/css/home_1.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-9nk614d67x.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-766nkrr03f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4803,11 +4803,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow=\""
+          "Value": "\"byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:29 GMT"
+          "Value": "Thu, 06 Feb 2025 07:31:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4827,13 +4827,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk=\""
+          "Value": "W/\"AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk="
+          "Value": "sha256-AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ="
         }
       ]
     },
@@ -4848,7 +4848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23610"
+          "Value": "23611"
         },
         {
           "Name": "Content-Type",
@@ -4856,11 +4856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk=\""
+          "Value": "\"AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:29 GMT"
+          "Value": "Thu, 06 Feb 2025 07:31:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4870,13 +4870,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BS99FkqAjiBGedN/ty1fSAq+uM/y4i3j/W2vkXxpVwk="
+          "Value": "sha256-AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ="
         }
       ]
     },
     {
       "Route": "assets/css/home_1.css.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-9nk614d67x.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\jlopj26pbc-766nkrr03f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4893,11 +4893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow=\""
+          "Value": "\"byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:29 GMT"
+          "Value": "Thu, 06 Feb 2025 07:31:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4915,7 +4915,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Duzu77EMtkpuI/rvRERWEf7HuYpBRamNSwUoDNesDow="
+          "Value": "sha256-byaD3Tk+/JfFKycPdmCuL2t4m9XCP7jB1rI02vdGKuw="
         }
       ]
     },
@@ -6708,13 +6708,13 @@
       ]
     },
     {
-      "Route": "assets/css/rtl.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-nbtnnessa8.gz",
+      "Route": "assets/css/rtl.bjiynw4yh8.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-bjiynw4yh8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000504795558"
+          "Quality": "0.000381388253"
         }
       ],
       "ResponseHeaders": [
@@ -6724,19 +6724,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1980"
+          "Value": "2621"
         },
         {
           "Name": "ETag",
-          "Value": "\"l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw=\""
+          "Value": "\"hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 06:04:42 GMT"
+          "Value": "Thu, 06 Feb 2025 07:57:41 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -6752,18 +6752,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc=\""
+          "Value": "W/\"qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bjiynw4yh8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/rtl.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc="
+          "Value": "sha256-qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw="
         }
       ]
     },
     {
-      "Route": "assets/css/rtl.css",
+      "Route": "assets/css/rtl.bjiynw4yh8.css",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6773,7 +6781,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8395"
+          "Value": "11066"
         },
         {
           "Name": "Content-Type",
@@ -6781,121 +6789,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc=\""
+          "Value": "\"qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 06:04:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/rtl.css.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-nbtnnessa8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1980"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 06:04:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/rtl.nbtnnessa8.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-nbtnnessa8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000504795558"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1980"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 06:04:42 GMT"
+          "Value": "Thu, 06 Feb 2025 07:57:41 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nbtnnessa8"
+          "Value": "bjiynw4yh8"
         },
         {
           "Name": "label",
@@ -6903,13 +6811,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc="
+          "Value": "sha256-qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw="
         }
       ]
     },
     {
-      "Route": "assets/css/rtl.nbtnnessa8.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\rtl.css",
+      "Route": "assets/css/rtl.bjiynw4yh8.css.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-bjiynw4yh8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6918,7 +6826,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8395"
+          "Value": "2621"
         },
         {
           "Name": "Content-Type",
@@ -6926,56 +6834,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc=\""
+          "Value": "\"hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 06:04:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nbtnnessa8"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MyPizhROrZcK+tfqNtGZv9MamxTPqqhzXr5JLzuEqWc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/rtl.nbtnnessa8.css.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-nbtnnessa8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1980"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 06:04:42 GMT"
+          "Value": "Thu, 06 Feb 2025 07:57:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6993,7 +6856,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nbtnnessa8"
+          "Value": "bjiynw4yh8"
         },
         {
           "Name": "label",
@@ -7001,7 +6864,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l0R0ACQOzMCTAPK2hTV3IuJV+MLl1fcaYQ2X6EAO/Rw="
+          "Value": "sha256-hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/rtl.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-bjiynw4yh8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000381388253"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2621"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 07:57:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/rtl.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 07:57:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbbTDcaif1zeOLGKemB9fidj5A6MWDmh91JAISIiPOw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/rtl.css.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Debug\\net9.0\\compressed\\wnd59m3u89-bjiynw4yh8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 07:57:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hfSDYnxrJDZgGdJSAzAgjopgZAQVDLtpTSVv+jyOX5I="
         }
       ]
     },
@@ -10860,7 +10860,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Thu, 06 Feb 2025 07:18:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10913,7 +10913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Thu, 06 Feb 2025 07:18:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10950,7 +10950,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Thu, 06 Feb 2025 07:18:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10997,7 +10997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Thu, 06 Feb 2025 07:18:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11058,7 +11058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Thu, 06 Feb 2025 07:18:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11103,7 +11103,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Thu, 06 Feb 2025 07:18:06 GMT"
         },
         {
           "Name": "Cache-Control",

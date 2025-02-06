@@ -2,7 +2,7 @@
 body {
     direction: rtl;
     text-align: right;
-    font-family: "Vazirmatn", system-ui, -apple-system, sans-serif !important;
+    font-family: "B Badr", system-ui, -apple-system, sans-serif !important;
 }
 
 /* اصلاح منو */
@@ -121,9 +121,20 @@ body {
 }
 
 @keyframes loaderDot {
-    0% { opacity: 0.3; transform: scale(1); }
-    50% { opacity: 1; transform: scale(1.3); }
-    100% { opacity: 0.3; transform: scale(1); }
+    0% {
+        opacity: 0.3;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scale(1.3);
+    }
+
+    100% {
+        opacity: 0.3;
+        transform: scale(1);
+    }
 }
 
 /* اصلاح استایل‌های اصلی لودر */
@@ -189,6 +200,7 @@ body {
     0% {
         transform: rotate(0deg);
     }
+
     100% {
         transform: rotate(360deg);
     }
@@ -271,93 +283,166 @@ body {
     opacity: 1;
 }
 
+
 .portfolio-items {
     margin: 0 -15px;
+    /* فاصله منفی برای ایجاد فضا */
 }
 
 .portfolio-item {
     padding: 15px;
+    /* فاصله داخلی */
     margin-bottom: 30px;
+    /* فاصله پایین */
     transition: all 0.3s ease;
+    /* افکت انتقال */
 }
 
 .portfolio-item.show {
     opacity: 1;
+    /* نمایش آیتم */
     transform: translateY(0);
+    /* موقعیت نرمال */
 }
 
 .portfolio-item:not(.show) {
     opacity: 0;
+    /* مخفی کردن آیتم */
     transform: translateY(20px);
+    /* جابجایی به پایین */
 }
 
 .portfolio-card {
     position: relative;
+    /* موقعیت‌دهی برای overlay */
     overflow: hidden;
+    /* جلوگیری از نمایش محتوای اضافی */
     border-radius: 10px;
+    /* گوشه‌های گرد */
 }
 
 .portfolio-img {
     position: relative;
+    /* موقعیت‌دهی برای تصویر */
     overflow: hidden;
+    /* جلوگیری از نمایش محتوای اضافی */
 }
 
 .portfolio-img img {
     width: 100%;
+    /* عرض 100% */
     height: 400px;
+    /* ارتفاع ثابت */
     object-fit: cover;
+    /* پوشش مناسب تصویر */
     transition: all 0.5s ease;
+    /* افکت انتقال */
 }
 
 .portfolio-overlay {
     position: absolute;
+    /* موقعیت‌دهی نسبت به والد */
     top: 0;
     left: 0;
     width: 100%;
+    /* عرض 100% */
     height: 100%;
+    /* ارتفاع 100% */
     background: rgba(0, 0, 0, 0.8);
+    /* پس‌زمینه تیره */
     display: flex;
+    /* استفاده از فلیکس برای مرکز کردن محتوا */
     align-items: center;
+    /* مرکز کردن عمودی */
     justify-content: center;
+    /* مرکز کردن افقی */
     opacity: 0;
+    /* مخفی کردن overlay */
     transform: translateY(100%);
+    /* جابجایی به پایین */
     transition: all 0.4s ease;
+    /* افکت انتقال */
 }
 
 .portfolio-card:hover .portfolio-overlay {
     opacity: 1;
+    /* نمایش overlay در هاور */
     transform: translateY(0);
+    /* بازگشت به موقعیت نرمال */
 }
 
 .portfolio-card:hover .portfolio-img img {
     transform: scale(1.1);
+    /* بزرگ شدن تصویر در هاور */
 }
 
 .overlay-content {
     text-align: center;
+    /* مرکز کردن متن */
     color: #fff;
+    /* رنگ متن */
     padding: 20px;
+    /* فاصله داخلی */
 }
 
 .overlay-content .category {
     font-size: 14px;
+    /* اندازه فونت دسته‌بندی */
     opacity: 0.8;
+    /* شفافیت */
     margin-bottom: 10px;
+    /* فاصله پایین */
     display: block;
+    /* نمایش به صورت بلوک */
 }
 
 .overlay-content .title {
     font-size: 24px;
+    /* اندازه فونت عنوان */
     margin-bottom: 15px;
+    /* فاصله پایین */
 }
 
 .overlay-content .details {
     display: flex;
+    /* استفاده از فلیکس */
     justify-content: center;
+    /* مرکز کردن افقی */
     gap: 20px;
+    /* فاصله بین جزئیات */
     margin-bottom: 20px;
+    /* فاصله پایین */
     font-size: 14px;
+    /* اندازه فونت جزئیات */
 }
+
+/* Media Query برای موبایل */
+@media (max-width: 800px) {
+    .portfolio-img img {
+        height: 250px;
+        /* کاهش ارتفاع تصویر در موبایل */
+    }
+
+    .portfolio-overlay {
+        opacity: 1;
+        /* نمایش overlay به‌طور پیش‌فرض در موبایل */
+        transform: translateY(0);
+        /* جلوگیری از جابجایی */
+    }
+
+    .portfolio-card:hover .portfolio-overlay {
+        opacity: 1;
+        /* نمایش overlay در هاور */
+        transform: translateY(0);
+        /* جلوگیری از جابجایی */
+    }
+
+    .portfolio-card:hover .portfolio-img img {
+        transform: scale(1);
+        /* غیرفعال کردن بزرگ شدن تصویر در هاور */
+    }
+}
+
 
 .view-project {
     display: inline-block;
@@ -449,4 +534,4 @@ body {
 .similar-projects .project-card .category {
     font-size: 14px;
     color: rgba(255, 255, 255, 0.7);
-} 
+}
