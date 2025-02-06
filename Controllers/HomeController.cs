@@ -24,9 +24,22 @@ public class HomeController : Controller
         ViewBag.Title = "زینو سازه | خدمات";
         return View();
     }
-    public IActionResult Portfolio(){
+    public IActionResult Portfolio()
+    {
         ViewBag.MetaDescription = "نمونه کارهای زینو سازه شامل انواع سازه های فلزی و پیش ساخته در نمایشگاه های مختلف می باشد.";
         ViewBag.Title = "زینو سازه | نمونه کارها";
+        return View();
+    }
+    public IActionResult Contact()
+    {
+        ViewBag.MetaDescription = "زینو سازه آمادگی دارد که نظرات و پیشنهادات شما را بپذیرد و در اسرع وقت به آنها پاسخ دهد.";
+        ViewBag.Title = "زینو سازه | تماس با ما";
+        return View();
+    }
+    public IActionResult Project()
+    {
+        ViewBag.MetaDescription = "جزئیات پروژه ی ما رو میتوانید در این قسمت مشاهده کنید.";
+        ViewBag.Title = "زینو سازه | پروژه";
         return View();
     }
 

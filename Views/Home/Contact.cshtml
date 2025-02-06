@@ -1,0 +1,72 @@
+<!--Contents-->
+<main>
+
+
+    <!--  Start services  -->
+    <section class="ui-contact-st5">
+        <div class="container">
+            <div class="row gx-5">
+                <div class="col-lg-5">
+                    <div class="main-img">
+                        <img src="/assets/img/hero1.jpg" alt="" class="img-cover">
+                        <h3 class="img-title">بیایید با هم<br>یک پروژه عالی بسازیم</h3>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <form action="" class="form d-block">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>نام *</label>
+                                    <input type="text" class="form-control" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>نام خانوادگی *</label>
+                                    <input type="text" class="form-control" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>ایمیل *</label>
+                                    <input type="text" class="form-control" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>شماره تماس *</label>
+                                    <input type="text" class="form-control" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>پیام شما *</label>
+                                    <textarea rows="6" class="form-control"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <a onclick="send()" class="link-arrow fsz-20">ارسال پیام <i
+                                        class="fal fa-arrow-up-right arrow"></i></a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--  End services  -->
+    @section Scripts {
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                document.body.classList.add('canvas-ready');
+            });
+            function send () {
+                alert('پیام شما ارسال شد');
+                window.location.replace("/");
+            }
+        </script>
+    }
+
+</main>
+<!--End-Contents-->
