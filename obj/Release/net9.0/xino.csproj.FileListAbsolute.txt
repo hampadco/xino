@@ -18,7 +18,6 @@ C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\scopedcss\Views\Sh
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\scopedcss\bundle\xino.styles.css
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\scopedcss\projectbundle\xino.bundle.scp.css
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\compressed\nnz7l9r316-gwg6dn2w1a.gz
-C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\compressed\jlopj26pbc-766nkrr03f.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\compressed\rns28r988k-23rfa65f5z.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\compressed\eflxrs5ke5-6bh5s3hfns.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\compressed\09g1y1zj3m-kb3out9fl2.gz
@@ -126,3 +125,4 @@ C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\refint\xino.dll
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\xino.pdb
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\xino.genruntimeconfig.cache
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\ref\xino.dll
+C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Release\net9.0\compressed\jlopj26pbc-enj0zezlqk.gz

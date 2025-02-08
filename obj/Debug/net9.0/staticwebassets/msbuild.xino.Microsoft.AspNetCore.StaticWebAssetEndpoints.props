@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gwg6dn2w1a"},{"Name":"integrity","Value":"sha256-EKRlMODLEr9EEV/B2iJlh5mfx4vhSAt6hgzwtUzHhGs="},{"Name":"label","Value":"_content/xino/assets/css/common_style.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42372"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EKRlMODLEr9EEV/B2iJlh5mfx4vhSAt6hgzwtUzHhGs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 03:38:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/xino/assets/css/home_1.766nkrr03f.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\home_1.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"766nkrr03f"},{"Name":"integrity","Value":"sha256-AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ="},{"Name":"label","Value":"_content/xino/assets/css/home_1.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23611"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 07:31:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/xino/assets/css/home_1.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\home_1.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23611"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AfHpp1NUZwWX4g/cNxF0OdjMHX9T5pEKb18HCh327hQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 07:31:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-es7qMCa4bf1ujjUghXX\u002BSR0szJH2q2/\u002BWLZsjb\u002BT8Ik="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23617"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022es7qMCa4bf1ujjUghXX\u002BSR0szJH2q2/\u002BWLZsjb\u002BT8Ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 11:18:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/xino/assets/css/home_1.enj0zezlqk.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\home_1.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"enj0zezlqk"},{"Name":"integrity","Value":"sha256-es7qMCa4bf1ujjUghXX\u002BSR0szJH2q2/\u002BWLZsjb\u002BT8Ik="},{"Name":"label","Value":"_content/xino/assets/css/home_1.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23617"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022es7qMCa4bf1ujjUghXX\u002BSR0szJH2q2/\u002BWLZsjb\u002BT8Ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 11:18:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/xino/assets/css/lib/all.23rfa65f5z.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\lib\all.css'))</AssetFile>
