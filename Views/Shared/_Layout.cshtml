@@ -89,7 +89,15 @@
         <nav class="navbar navbar-expand-lg navbar-dark ui-navbar-st1">
             <div class="container">
                 <a class="navbar-brand" href="/">
-                    <p class="logo">XINOSAZEH</p>
+                    <img src="/assets/img/icons/xino.jpg" alt="logo" class="log2o">
+                    <style>
+                        .log2o {
+                            border-radius: 200px;
+                            /* گرد کردن گوشه‌ها */
+                            overflow: hidden;
+                            /* مخفی کردن هر چیزی که از مرزها خارج می‌شود */
+                        }
+                    </style>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -148,7 +156,7 @@
                     </div>
                     <div class="col-lg-4 text-lg-end">
                         <a href="/" class="d-block mb-4">
-                            <p class="logo h3">XINOSAZEH</p>
+                            <img src="/assets/img/icons/xino.png" alt="logo" style="height: 100px;">
                         </a>
                         <a href="#" class="btn btn-outline-light"><i class="fas fa-angle-up"></i> بازگشت به بالا</a>
                     </div>
@@ -211,14 +219,14 @@
                 /* تغییر رنگ متن در هاور */
             }
 
-            .logo {
+            @* .logo {
                 font-size: 1.5rem;
                 /* اندازه لوگو */
                 font-weight: bold;
                 /* وزن فونت لوگو */
                 color: #ffcc00;
                 /* رنگ طلایی برای لوگو */
-            }
+            } *@
 
             /* Media Query برای موبایل */
             @@media(max - width: 767px) {

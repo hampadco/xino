@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("xino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fe7d7cd833162d43b423dabe5dea4c68da0859a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ae72a80b6f7505da81c66fcb01bde3c094e46c")]
 [assembly: System.Reflection.AssemblyProductAttribute("xino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("xino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

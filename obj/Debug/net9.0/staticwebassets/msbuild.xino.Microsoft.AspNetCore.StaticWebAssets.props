@@ -288,6 +288,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\icons\layers.svg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\icons\xino.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>assets/img/icons/xino.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>eovtc4my7z</Fingerprint>
+      <Integrity>nkH2kHd99zQf4VckD3SDn9EG7WM/6zgRJDYVfoM9CRg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\icons\xino.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\logo.svg'))">
       <SourceType>Package</SourceType>
       <SourceId>xino</SourceId>
@@ -372,8 +390,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uetmad4zi7</Fingerprint>
-      <Integrity>miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI=</Integrity>
+      <Fingerprint>prj3thdmxs</Fingerprint>
+      <Integrity>Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\portfolio1\4.jpg'))</OriginalItemSpec>
@@ -390,8 +408,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>prj3thdmxs</Fingerprint>
-      <Integrity>Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70=</Integrity>
+      <Fingerprint>uetmad4zi7</Fingerprint>
+      <Integrity>miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\portfolio1\5.jpg'))</OriginalItemSpec>
