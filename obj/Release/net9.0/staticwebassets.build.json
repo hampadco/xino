@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l95UkedWt7cW8h4ct3KA7iddKyF16VO5tD8LqmImPYc=",
+  "Hash": "fM8Rlxo4IXmTDYSdQ+J0L7uye1Qkr9nbf8BfXWHsUMM=",
   "Source": "xino",
   "BasePath": "_content/xino",
   "Mode": "Default",
@@ -542,12 +542,12 @@
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-yslsh4os5e.gz",
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-zkuzejup7r.gz",
       "SourceId": "xino",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "_content/xino",
-      "RelativePath": "assets/img/logo#[.{fingerprint=yslsh4os5e}]?.svg.gz",
+      "RelativePath": "assets/img/logo#[.{fingerprint=zkuzejup7r}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -556,8 +556,8 @@
       "RelatedAsset": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "81nbrxcewb",
-      "Integrity": "pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU=",
+      "Fingerprint": "dvnu99q0h0",
+      "Integrity": "px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg"
@@ -1046,12 +1046,12 @@
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-enj0zezlqk.gz",
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-5qrvhvk4jb.gz",
       "SourceId": "xino",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "_content/xino",
-      "RelativePath": "assets/css/home_1#[.{fingerprint=enj0zezlqk}]?.css.gz",
+      "RelativePath": "assets/css/home_1#[.{fingerprint=5qrvhvk4jb}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "awx1l0u5bv",
-      "Integrity": "2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY=",
+      "Fingerprint": "tbm8tsso7f",
+      "Integrity": "CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css"
@@ -2089,8 +2089,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "enj0zezlqk",
-      "Integrity": "es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik=",
+      "Fingerprint": "5qrvhvk4jb",
+      "Integrity": "45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\home_1.css"
@@ -2362,8 +2362,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jt8nzmpia6",
-      "Integrity": "mUiJr1ae5kz+BfWRpqQqIw+IbM8WQk1uwVyJJywb6VU=",
+      "Fingerprint": "xorv32wlw4",
+      "Integrity": "D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero1.jpg"
@@ -2390,6 +2390,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\layers.svg"
     },
     {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.jpg",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/icons/xino#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eovtc4my7z",
+      "Integrity": "nkH2kHd99zQf4VckD3SDn9EG7WM/6zgRJDYVfoM9CRg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\xino.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.png",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/icons/xino#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kk3379mzsh",
+      "Integrity": "1H9zRfNLgVo92Ewg78sAA4FG9+wZz0FEVjwQ6nRZHqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\xino.png"
+    },
+    {
       "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
       "SourceId": "xino",
       "SourceType": "Discovered",
@@ -2404,8 +2446,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yslsh4os5e",
-      "Integrity": "Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8=",
+      "Fingerprint": "zkuzejup7r",
+      "Integrity": "k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.svg"
@@ -2425,8 +2467,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fm2a2m093w",
-      "Integrity": "OTooWVyAwYiH99ZvB4EtTQKmTQQeudmfD3wdV5wCxqg=",
+      "Fingerprint": "itmjwyf1xb",
+      "Integrity": "uu0mDDXMFaTHNvKmtRF755AAlveiA+nVZyZ14HrX6I8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\1.jpg"
@@ -2446,8 +2488,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xsuynk1rmz",
-      "Integrity": "jxhzt9HH5AKhs1cCfuMJPOW75FLb5Bu+0EVc2OdVo7M=",
+      "Fingerprint": "fp7vkv14gh",
+      "Integrity": "PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\2.jpg"
@@ -2467,8 +2509,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9xidq5k5vz",
-      "Integrity": "Da8ImksKWnlBIfTDQNqiTf54rhfyrifyzvjRGjZLnG4=",
+      "Fingerprint": "yw7dzbheql",
+      "Integrity": "Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\3.jpg"
@@ -2488,8 +2530,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uetmad4zi7",
-      "Integrity": "miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI=",
+      "Fingerprint": "3uhmgvq0z0",
+      "Integrity": "y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\4.jpg"
@@ -2509,8 +2551,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "prj3thdmxs",
-      "Integrity": "Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70=",
+      "Fingerprint": "xorv32wlw4",
+      "Integrity": "D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\5.jpg"
@@ -2530,8 +2572,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ukvzfluc4q",
-      "Integrity": "nk1ElrYPsqwsnjvJOpWutQHknKpDCzNf9zhxPDHdUU8=",
+      "Fingerprint": "fp7vkv14gh",
+      "Integrity": "PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\6.jpg"
@@ -2551,8 +2593,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vrxtri8gnd",
-      "Integrity": "xaxf/0Dq14PI5oRpd9xeQdFaFkPax8WWQqdfhdKgcf4=",
+      "Fingerprint": "yw7dzbheql",
+      "Integrity": "Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\7.jpg"
@@ -2572,8 +2614,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "awv4lh51z0",
-      "Integrity": "htzQ45cbsT/joIeRi2ddVk31Lu6VYTpg7sTA1H/90qo=",
+      "Fingerprint": "3uhmgvq0z0",
+      "Integrity": "y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\8.jpg"
@@ -2593,8 +2635,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ypwek1mlp1",
-      "Integrity": "JnVJY0eBXwJGVuBrt0/zSDxm544X5nMo5uXVrOPPU2A=",
+      "Fingerprint": "xorv32wlw4",
+      "Integrity": "D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio1\\9.jpg"
@@ -4622,13 +4664,13 @@
       ]
     },
     {
-      "Route": "assets/css/home_1.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-enj0zezlqk.gz",
+      "Route": "assets/css/home_1.5qrvhvk4jb.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-5qrvhvk4jb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000277700639"
+          "Quality": "0.000277392510"
         }
       ],
       "ResponseHeaders": [
@@ -4638,19 +4680,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3600"
+          "Value": "3604"
         },
         {
           "Name": "ETag",
-          "Value": "\"2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY=\""
+          "Value": "\"CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 11:18:49 GMT"
+          "Value": "Sun, 09 Feb 2025 20:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4666,18 +4708,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik=\""
+          "Value": "W/\"45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "5qrvhvk4jb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/home_1.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik="
+          "Value": "sha256-45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw="
         }
       ]
     },
     {
-      "Route": "assets/css/home_1.css",
+      "Route": "assets/css/home_1.5qrvhvk4jb.css",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4695,121 +4745,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik=\""
+          "Value": "\"45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 11:18:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/home_1.css.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-enj0zezlqk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3600"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 11:18:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/home_1.enj0zezlqk.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-enj0zezlqk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000277700639"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3600"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 11:18:49 GMT"
+          "Value": "Sun, 09 Feb 2025 20:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "enj0zezlqk"
+          "Value": "5qrvhvk4jb"
         },
         {
           "Name": "label",
@@ -4817,13 +4767,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik="
+          "Value": "sha256-45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw="
         }
       ]
     },
     {
-      "Route": "assets/css/home_1.enj0zezlqk.css",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
+      "Route": "assets/css/home_1.5qrvhvk4jb.css.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-5qrvhvk4jb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4832,7 +4782,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23617"
+          "Value": "3604"
         },
         {
           "Name": "Content-Type",
@@ -4840,56 +4790,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik=\""
+          "Value": "\"CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 11:18:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "enj0zezlqk"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/home_1.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-es7qMCa4bf1ujjUghXX+SR0szJH2q2/+WLZsjb+T8Ik="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/home_1.enj0zezlqk.css.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-enj0zezlqk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3600"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 11:18:49 GMT"
+          "Value": "Sun, 09 Feb 2025 20:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4907,7 +4812,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "enj0zezlqk"
+          "Value": "5qrvhvk4jb"
         },
         {
           "Name": "label",
@@ -4915,7 +4820,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2rad9WjmzURK8t9Vfik+R8aje144Yexq0zyZb+LIgcY="
+          "Value": "sha256-CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/home_1.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-5qrvhvk4jb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000277392510"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/home_1.css",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\css\\home_1.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45SGG986c+/TIc+bFVxRw3CFT/Yyb4cO4Dv1UauMcYw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/home_1.css.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\jlopj26pbc-5qrvhvk4jb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CRB2G9qFJI0wt8o4g7kxurJ50WFATiQ3UiDDzX/SZW8="
         }
       ]
     },
@@ -7642,7 +7684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "408108"
+          "Value": "108502"
         },
         {
           "Name": "Content-Type",
@@ -7650,11 +7692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mUiJr1ae5kz+BfWRpqQqIw+IbM8WQk1uwVyJJywb6VU=\""
+          "Value": "\"D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7664,12 +7706,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mUiJr1ae5kz+BfWRpqQqIw+IbM8WQk1uwVyJJywb6VU="
+          "Value": "sha256-D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY="
         }
       ]
     },
     {
-      "Route": "assets/img/hero1.jt8nzmpia6.jpg",
+      "Route": "assets/img/hero1.xorv32wlw4.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7679,7 +7721,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "408108"
+          "Value": "108502"
         },
         {
           "Name": "Content-Type",
@@ -7687,11 +7729,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mUiJr1ae5kz+BfWRpqQqIw+IbM8WQk1uwVyJJywb6VU=\""
+          "Value": "\"D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7701,7 +7743,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jt8nzmpia6"
+          "Value": "xorv32wlw4"
         },
         {
           "Name": "label",
@@ -7709,7 +7751,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mUiJr1ae5kz+BfWRpqQqIw+IbM8WQk1uwVyJJywb6VU="
+          "Value": "sha256-D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY="
         }
       ]
     },
@@ -8012,63 +8054,8 @@
       ]
     },
     {
-      "Route": "assets/img/logo.svg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-yslsh4os5e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001329787234"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "751"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/logo.svg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
+      "Route": "assets/img/icons/xino.eovtc4my7z.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8077,19 +8064,64 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1559"
+          "Value": "18726"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/svg+xml"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8=\""
+          "Value": "\"nkH2kHd99zQf4VckD3SDn9EG7WM/6zgRJDYVfoM9CRg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:55:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eovtc4my7z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/icons/xino.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkH2kHd99zQf4VckD3SDn9EG7WM/6zgRJDYVfoM9CRg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/icons/xino.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkH2kHd99zQf4VckD3SDn9EG7WM/6zgRJDYVfoM9CRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 19:55:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8099,13 +8131,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8="
+          "Value": "sha256-nkH2kHd99zQf4VckD3SDn9EG7WM/6zgRJDYVfoM9CRg="
         }
       ]
     },
     {
-      "Route": "assets/img/logo.svg.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-yslsh4os5e.gz",
+      "Route": "assets/img/icons/xino.kk3379mzsh.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8114,7 +8146,115 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "751"
+          "Value": "31249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1H9zRfNLgVo92Ewg78sAA4FG9+wZz0FEVjwQ6nRZHqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kk3379mzsh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/icons/xino.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1H9zRfNLgVo92Ewg78sAA4FG9+wZz0FEVjwQ6nRZHqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/icons/xino.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1H9zRfNLgVo92Ewg78sAA4FG9+wZz0FEVjwQ6nRZHqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1H9zRfNLgVo92Ewg78sAA4FG9+wZz0FEVjwQ6nRZHqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logo.svg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-zkuzejup7r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000951474786"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
         },
         {
           "Name": "Content-Type",
@@ -8122,11 +8262,77 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU=\""
+          "Value": "W/\"k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logo.svg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 20:03:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logo.svg.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-zkuzejup7r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:03:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8144,18 +8350,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU="
+          "Value": "sha256-px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw="
         }
       ]
     },
     {
-      "Route": "assets/img/logo.yslsh4os5e.svg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-yslsh4os5e.gz",
+      "Route": "assets/img/logo.zkuzejup7r.svg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-zkuzejup7r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001329787234"
+          "Quality": "0.000951474786"
         }
       ],
       "ResponseHeaders": [
@@ -8165,15 +8371,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "751"
+          "Value": "1050"
         },
         {
           "Name": "ETag",
-          "Value": "\"pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU=\""
+          "Value": "\"px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 20:03:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8193,13 +8399,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8=\""
+          "Value": "W/\"k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yslsh4os5e"
+          "Value": "zkuzejup7r"
         },
         {
           "Name": "label",
@@ -8207,12 +8413,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8="
+          "Value": "sha256-k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs="
         }
       ]
     },
     {
-      "Route": "assets/img/logo.yslsh4os5e.svg",
+      "Route": "assets/img/logo.zkuzejup7r.svg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8222,7 +8428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1559"
+          "Value": "2047"
         },
         {
           "Name": "Content-Type",
@@ -8230,11 +8436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8=\""
+          "Value": "\"k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 20:03:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8244,7 +8450,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yslsh4os5e"
+          "Value": "zkuzejup7r"
         },
         {
           "Name": "label",
@@ -8252,13 +8458,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Yh54cg8N2lpKJ+GALrmWM/Ho4LlOECWnCYpM+b+sTN8="
+          "Value": "sha256-k5+1emrrqNB3OMKAOanLoHqLkdMaUPfWeQOyYevpWXs="
         }
       ]
     },
     {
-      "Route": "assets/img/logo.yslsh4os5e.svg.gz",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-yslsh4os5e.gz",
+      "Route": "assets/img/logo.zkuzejup7r.svg.gz",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\a5a2zxq3me-zkuzejup7r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8267,7 +8473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "751"
+          "Value": "1050"
         },
         {
           "Name": "Content-Type",
@@ -8275,11 +8481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU=\""
+          "Value": "\"px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 20:03:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8297,7 +8503,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yslsh4os5e"
+          "Value": "zkuzejup7r"
         },
         {
           "Name": "label",
@@ -8305,12 +8511,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pFec7HhKFxH90cXwtsOxbo9K1zLv/cKacJ3GI7sVvPU="
+          "Value": "sha256-px7L+CSr+rSkRfbXelHuD0Wy8lIcyHGz2lryAfas/Xw="
         }
       ]
     },
     {
-      "Route": "assets/img/portfolio1/1.fm2a2m093w.jpg",
+      "Route": "assets/img/portfolio1/1.itmjwyf1xb.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8320,7 +8526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "452996"
+          "Value": "204184"
         },
         {
           "Name": "Content-Type",
@@ -8328,11 +8534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OTooWVyAwYiH99ZvB4EtTQKmTQQeudmfD3wdV5wCxqg=\""
+          "Value": "\"uu0mDDXMFaTHNvKmtRF755AAlveiA+nVZyZ14HrX6I8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:48:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8342,7 +8548,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fm2a2m093w"
+          "Value": "itmjwyf1xb"
         },
         {
           "Name": "label",
@@ -8350,7 +8556,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OTooWVyAwYiH99ZvB4EtTQKmTQQeudmfD3wdV5wCxqg="
+          "Value": "sha256-uu0mDDXMFaTHNvKmtRF755AAlveiA+nVZyZ14HrX6I8="
         }
       ]
     },
@@ -8365,7 +8571,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "452996"
+          "Value": "204184"
         },
         {
           "Name": "Content-Type",
@@ -8373,11 +8579,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OTooWVyAwYiH99ZvB4EtTQKmTQQeudmfD3wdV5wCxqg=\""
+          "Value": "\"uu0mDDXMFaTHNvKmtRF755AAlveiA+nVZyZ14HrX6I8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:48:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8387,7 +8593,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OTooWVyAwYiH99ZvB4EtTQKmTQQeudmfD3wdV5wCxqg="
+          "Value": "sha256-uu0mDDXMFaTHNvKmtRF755AAlveiA+nVZyZ14HrX6I8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio1/2.fp7vkv14gh.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 19:49:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fp7vkv14gh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio1/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak="
         }
       ]
     },
@@ -8402,7 +8653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667659"
+          "Value": "120028"
         },
         {
           "Name": "Content-Type",
@@ -8410,11 +8661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jxhzt9HH5AKhs1cCfuMJPOW75FLb5Bu+0EVc2OdVo7M=\""
+          "Value": "\"PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8424,97 +8675,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jxhzt9HH5AKhs1cCfuMJPOW75FLb5Bu+0EVc2OdVo7M="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/portfolio1/2.xsuynk1rmz.jpg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667659"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jxhzt9HH5AKhs1cCfuMJPOW75FLb5Bu+0EVc2OdVo7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xsuynk1rmz"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/portfolio1/2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jxhzt9HH5AKhs1cCfuMJPOW75FLb5Bu+0EVc2OdVo7M="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/portfolio1/3.9xidq5k5vz.jpg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "880614"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Da8ImksKWnlBIfTDQNqiTf54rhfyrifyzvjRGjZLnG4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9xidq5k5vz"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/portfolio1/3.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Da8ImksKWnlBIfTDQNqiTf54rhfyrifyzvjRGjZLnG4="
+          "Value": "sha256-PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak="
         }
       ]
     },
@@ -8529,7 +8690,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "880614"
+          "Value": "217619"
         },
         {
           "Name": "Content-Type",
@@ -8537,11 +8698,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Da8ImksKWnlBIfTDQNqiTf54rhfyrifyzvjRGjZLnG4=\""
+          "Value": "\"Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:47:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8551,7 +8712,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Da8ImksKWnlBIfTDQNqiTf54rhfyrifyzvjRGjZLnG4="
+          "Value": "sha256-Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio1/3.yw7dzbheql.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 19:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yw7dzbheql"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio1/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio1/4.3uhmgvq0z0.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 19:48:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3uhmgvq0z0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio1/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0="
         }
       ]
     },
@@ -8566,7 +8817,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "478061"
+          "Value": "453130"
         },
         {
           "Name": "Content-Type",
@@ -8574,11 +8825,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI=\""
+          "Value": "\"y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8588,52 +8839,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/portfolio1/4.uetmad4zi7.jpg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "478061"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uetmad4zi7"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/portfolio1/4.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-miPYaBVuyIHKjClc30TDmzqPik+mVJi5aBYEepEhkZI="
+          "Value": "sha256-y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0="
         }
       ]
     },
@@ -8648,7 +8854,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "267524"
+          "Value": "108502"
         },
         {
           "Name": "Content-Type",
@@ -8656,11 +8862,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70=\""
+          "Value": "\"D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8670,12 +8876,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70="
+          "Value": "sha256-D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY="
         }
       ]
     },
     {
-      "Route": "assets/img/portfolio1/5.prj3thdmxs.jpg",
+      "Route": "assets/img/portfolio1/5.xorv32wlw4.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8685,7 +8891,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "267524"
+          "Value": "108502"
         },
         {
           "Name": "Content-Type",
@@ -8693,11 +8899,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70=\""
+          "Value": "\"D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8707,7 +8913,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "prj3thdmxs"
+          "Value": "xorv32wlw4"
         },
         {
           "Name": "label",
@@ -8715,7 +8921,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Kwiz4w07HH6RQcPieQ0FPjPRG16MGq9I/RuPseS2Z70="
+          "Value": "sha256-D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/portfolio1/6.fp7vkv14gh.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 19:49:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fp7vkv14gh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/portfolio1/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak="
         }
       ]
     },
@@ -8730,7 +8981,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "125075"
+          "Value": "120028"
         },
         {
           "Name": "Content-Type",
@@ -8738,11 +8989,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nk1ElrYPsqwsnjvJOpWutQHknKpDCzNf9zhxPDHdUU8=\""
+          "Value": "\"PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8752,52 +9003,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nk1ElrYPsqwsnjvJOpWutQHknKpDCzNf9zhxPDHdUU8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/portfolio1/6.ukvzfluc4q.jpg",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\6.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "125075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nk1ElrYPsqwsnjvJOpWutQHknKpDCzNf9zhxPDHdUU8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ukvzfluc4q"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/portfolio1/6.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nk1ElrYPsqwsnjvJOpWutQHknKpDCzNf9zhxPDHdUU8="
+          "Value": "sha256-PUcTqdfV4v3H4YJZt93vVgnlUVr4QNnKuuW7LPEspak="
         }
       ]
     },
@@ -8812,7 +9018,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "263199"
+          "Value": "217619"
         },
         {
           "Name": "Content-Type",
@@ -8820,11 +9026,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xaxf/0Dq14PI5oRpd9xeQdFaFkPax8WWQqdfhdKgcf4=\""
+          "Value": "\"Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:47:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8834,12 +9040,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xaxf/0Dq14PI5oRpd9xeQdFaFkPax8WWQqdfhdKgcf4="
+          "Value": "sha256-Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI="
         }
       ]
     },
     {
-      "Route": "assets/img/portfolio1/7.vrxtri8gnd.jpg",
+      "Route": "assets/img/portfolio1/7.yw7dzbheql.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8849,7 +9055,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "263199"
+          "Value": "217619"
         },
         {
           "Name": "Content-Type",
@@ -8857,11 +9063,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xaxf/0Dq14PI5oRpd9xeQdFaFkPax8WWQqdfhdKgcf4=\""
+          "Value": "\"Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:47:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8871,7 +9077,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vrxtri8gnd"
+          "Value": "yw7dzbheql"
         },
         {
           "Name": "label",
@@ -8879,12 +9085,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xaxf/0Dq14PI5oRpd9xeQdFaFkPax8WWQqdfhdKgcf4="
+          "Value": "sha256-Ugi12cEAEycJV5Hz+54/sY5baQpuyUJoLqdkMDuKiLI="
         }
       ]
     },
     {
-      "Route": "assets/img/portfolio1/8.awv4lh51z0.jpg",
+      "Route": "assets/img/portfolio1/8.3uhmgvq0z0.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8894,7 +9100,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318679"
+          "Value": "453130"
         },
         {
           "Name": "Content-Type",
@@ -8902,11 +9108,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"htzQ45cbsT/joIeRi2ddVk31Lu6VYTpg7sTA1H/90qo=\""
+          "Value": "\"y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8916,7 +9122,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "awv4lh51z0"
+          "Value": "3uhmgvq0z0"
         },
         {
           "Name": "label",
@@ -8924,7 +9130,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-htzQ45cbsT/joIeRi2ddVk31Lu6VYTpg7sTA1H/90qo="
+          "Value": "sha256-y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0="
         }
       ]
     },
@@ -8939,7 +9145,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318679"
+          "Value": "453130"
         },
         {
           "Name": "Content-Type",
@@ -8947,11 +9153,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"htzQ45cbsT/joIeRi2ddVk31Lu6VYTpg7sTA1H/90qo=\""
+          "Value": "\"y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8961,7 +9167,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-htzQ45cbsT/joIeRi2ddVk31Lu6VYTpg7sTA1H/90qo="
+          "Value": "sha256-y48+oF7qWMZFJFgyXpfya02bUe6ipsg3U4MvCJKCgY0="
         }
       ]
     },
@@ -8976,7 +9182,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "252926"
+          "Value": "108502"
         },
         {
           "Name": "Content-Type",
@@ -8984,11 +9190,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JnVJY0eBXwJGVuBrt0/zSDxm544X5nMo5uXVrOPPU2A=\""
+          "Value": "\"D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8998,12 +9204,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JnVJY0eBXwJGVuBrt0/zSDxm544X5nMo5uXVrOPPU2A="
+          "Value": "sha256-D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY="
         }
       ]
     },
     {
-      "Route": "assets/img/portfolio1/9.ypwek1mlp1.jpg",
+      "Route": "assets/img/portfolio1/9.xorv32wlw4.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\portfolio1\\9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9013,7 +9219,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "252926"
+          "Value": "108502"
         },
         {
           "Name": "Content-Type",
@@ -9021,11 +9227,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JnVJY0eBXwJGVuBrt0/zSDxm544X5nMo5uXVrOPPU2A=\""
+          "Value": "\"D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:38:30 GMT"
+          "Value": "Sun, 09 Feb 2025 19:49:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9035,7 +9241,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ypwek1mlp1"
+          "Value": "xorv32wlw4"
         },
         {
           "Name": "label",
@@ -9043,7 +9249,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JnVJY0eBXwJGVuBrt0/zSDxm544X5nMo5uXVrOPPU2A="
+          "Value": "sha256-D/cppb+ft8DRktgmHcyb0JOOTF9lpuuBmde0vkmMgmY="
         }
       ]
     },
