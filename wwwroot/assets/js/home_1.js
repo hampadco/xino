@@ -33,26 +33,26 @@ $(document).ready(function () {
       delay: 2000,
     },
     breakpoints: {
-        0: {
-            slidesPerView: 3,
-            direction: "horizontal",
-        },
-        480: {
-            slidesPerView: 3,
-            direction: "horizontal",
-        },
-        787: {
-            slidesPerView: 3,
-            direction: "horizontal",
-        },
-        991: {
-            slidesPerView: 3,
-            direction: "vertical",
-        },
-        1200: {
-            slidesPerView: 3,
-            direction: "vertical",
-        }
+      0: {
+        slidesPerView: 3,
+        direction: "horizontal",
+      },
+      480: {
+        slidesPerView: 3,
+        direction: "horizontal",
+      },
+      787: {
+        slidesPerView: 3,
+        direction: "horizontal",
+      },
+      991: {
+        slidesPerView: 3,
+        direction: "vertical",
+      },
+      1200: {
+        slidesPerView: 3,
+        direction: "vertical",
+      }
     }
   });
 
@@ -74,6 +74,33 @@ $(document).ready(function () {
   });
 
   // portfolio slider animation
+  // if (window.innerWidth > 991) {  // Only run on desktop
+  //   gsap.utils
+  //     .toArray(".ui-portfolio-st1 .portfolio-slider .item")
+  //     .forEach((item) => {
+  //       const tl = gsap.timeline({
+  //         scrollTrigger: {
+  //           trigger: item,
+  //           start: "top bottom",
+  //           end: "bottom+=150% center",
+  //           scrub: true,
+  //         },
+  //       });
+
+  //       tl.from(item, {
+  //         translateY: "0",
+  //         rotateX: "-50deg",
+  //         scale: 0.9,
+  //         ease: "linear",
+  //       })
+  //       .to(item, {
+  //         translateY: "0",
+  //         rotateX: "50deg",
+  //         scale: 0.9,
+  //         ease: "linear",
+  //       });
+  //     });
+  // }
   if (window.innerWidth > 991) {  // Only run on desktop
     gsap.utils
       .toArray(".ui-portfolio-st1 .portfolio-slider .item")
@@ -82,23 +109,29 @@ $(document).ready(function () {
           scrollTrigger: {
             trigger: item,
             start: "top bottom",
-            end: "bottom+=150% center",
+            end: "bottom center", // نقطه پایان
             scrub: true,
+            onLeave: () => {
+              gsap.to(item, { opacity: 0 }); // محو کردن عکس هنگام خروج
+            },
+            onEnterBack: () => {
+              gsap.to(item, { opacity: 1 }); // نمایش دوباره عکس هنگام برگشت
+            }
           },
         });
 
         tl.from(item, {
-          translateY: "0",
-          rotateX: "-50deg",
+          translateY: "30%",
+          rotateX: "-10deg", // کاهش مقدار چرخش به -10 درجه
           scale: 0.9,
-          ease: "linear",
+          ease: "power1.out",
         })
-        .to(item, {
-          translateY: "0",
-          rotateX: "50deg",
-          scale: 0.9,
-          ease: "linear",
-        });
+          .to(item, {
+            translateY: "0%",
+            rotateX: "10deg", // کاهش مقدار چرخش به 10 درجه
+            scale: 1,
+            ease: "power1.out",
+          });
       });
   }
 });

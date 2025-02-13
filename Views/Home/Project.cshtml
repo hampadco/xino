@@ -1,3 +1,4 @@
+@model WorkPost
 <main>
     <!-- بخش هدر پروژه -->
     <section class="project-header pt-120 pb-60">
@@ -5,32 +6,26 @@
             <div class="row align-items-center">
                 <div class="col-lg-8">
                     <div class="project-info">
-                        <span class="category mb-20">نمایشگاه خودرو</span>
-                        <h1 class="title fsz-60">غرفه ایران‌خودرو</h1>
+                        <span class="category mb-20">@Model.WorkCat.Name</span>
+                        <h1 class="title fsz-60">@Model.Title</h1>
                         <div class="project-meta mt-40">
                             <div class="row">
                                 <div class="col-lg-3 col-md-6">
                                     <div class="meta-item">
                                         <span class="label">مساحت</span>
-                                        <span class="value">۵۰۰ متر مربع</span>
+                                        <span class="value">@Model.Scale</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="meta-item">
                                         <span class="label">سال اجرا</span>
-                                        <span class="value">۱۴۰۲</span>
+                                        <span class="value">@Model.Year</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="meta-item">
                                         <span class="label">محل اجرا</span>
-                                        <span class="value">نمایشگاه بین‌المللی تهران</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6">
-                                    <div class="meta-item">
-                                        <span class="label">مدت اجرا</span>
-                                        <span class="value">۱۵ روز</span>
+                                        <span class="value">@Model.Location</span>
                                     </div>
                                 </div>
                             </div>
@@ -44,20 +39,56 @@
     <!-- گالری تصاویر -->
     <section class="project-gallery pb-100">
         <div class="container">
-            <div class="main-image mb-50">
-                <img src="/assets/img/portfolio1/1.jpg" alt="تصویر اصلی پروژه" class="img-fluid radius-10">
+            @* <div class="main-image mb-50">
+                <img src="@Model.Images[0]" alt="تصویر اصلی پروژه" class="img-fluid radius-10">
             </div>
             <div class="row">
-                <div class="col-lg-4 mb-30">
-                    <img src="/assets/img/portfolio1/2.jpg" alt="" class="img-fluid radius-10">
+                @for (int i = 1; i < Model.Images.Count; i++)
+                {
+                    <div class="col-lg-4 mb-30">
+                        <img src="@Model.Images[i]" alt="تصویر فرعی شماره @i" class="img-fluid radius-10">
+                    </div>
+                }
+            </div> *@
+            <style>
+                /* CSS */
+                .ui-portfolio-st1 .portfolio-slider .item {
+                    width: 100%;
+                    /* یا عرض دلخواه */
+                    height: 30%;
+                    /* ارتفاع دلخواه */
+                    overflow: hidden;
+                    /* برای جلوگیری از برآمدگی عکس */
+                }
+
+                .ui-portfolio-st1 .portfolio-slider .item img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    /* حفظ نسبت ابعاد و پر کردن فضای موجود */
+                }
+            </style>
+            <section class="ui-portfolio-st1">
+                <div class="container">
+                    <div class="portfolio-slider col-lg-9 mx-auto">
+                        @{
+                            int i = 1;
+                        }
+                        @foreach (string image in Model.Images)
+                        {
+                            <div class="item">
+                                <a href="@image" target="_blank" class="portfolio-link">
+                                    <div class="img th-350">
+                                        <img src="@image" alt="تصاویر شماره @i" class="img-cover radius-5">
+                                    </div>
+                                </a>
+                            </div>
+                            i++;
+                        }
+                    </div>
                 </div>
-                <div class="col-lg-4 mb-30">
-                    <img src="/assets/img/portfolio1/3.jpg" alt="" class="img-fluid radius-10">
-                </div>
-                <div class="col-lg-4 mb-30">
-                    <img src="/assets/img/portfolio1/4.jpg" alt="" class="img-fluid radius-10">
-                </div>
-            </div>
+                <!-- <img src="/assets/img/work-pat.png" alt="" class="pat w-100"> -->
+            </section>
         </div>
     </section>
 
@@ -68,9 +99,7 @@
                 <div class="col-lg-8">
                     <div class="description-content">
                         <h3 class="mb-30">درباره پروژه</h3>
-                        <p class="mb-20">این غرفه در نمایشگاه بین‌المللی خودرو تهران با هدف نمایش محصولات جدید
-                            ایران‌خودرو طراحی و اجرا شد. در طراحی این غرفه از المان‌های مدرن و متریال‌های با
-                            کیفیت استفاده شده است.</p>
+                        <p class="mb-20">@Model.Description</p>
                         <p class="mb-20">فضای غرفه به گونه‌ای طراحی شده که بازدیدکنندگان به راحتی بتوانند
                             محصولات را مشاهده کنند و با مشخصات فنی آنها آشنا شوند.</p>
 
@@ -93,27 +122,16 @@
         <div class="container">
             <h3 class="section-title mb-50">پروژه‌های مشابه</h3>
             <div class="row">
-                <div class="col-lg-4">
-                    <a href="project-details.html" class="project-card">
-                        <img src="/assets/img/portfolio1/5.jpg" alt="" class="img-fluid radius-10">
-                        <h5 class="mt-20">غرفه سایپا</h5>
-                        <span class="category">نمایشگاه خودرو</span>
-                    </a>
-                </div>
-                <div class="col-lg-4">
-                    <a href="project-details.html" class="project-card">
-                        <img src="/assets/img/portfolio1/6.jpg" alt="" class="img-fluid radius-10">
-                        <h5 class="mt-20">غرفه بهمن موتور</h5>
-                        <span class="category">نمایشگاه خودرو</span>
-                    </a>
-                </div>
-                <div class="col-lg-4">
-                    <a href="project-details.html" class="project-card">
-                        <img src="/assets/img/portfolio1/7.jpg" alt="" class="img-fluid radius-10">
-                        <h5 class="mt-20">غرفه کرمان موتور</h5>
-                        <span class="category">نمایشگاه خودرو</span>
-                    </a>
-                </div>
+                @foreach (WorkPost work in ViewBag.otherProjects)
+                {
+                    <div class="col-lg-4">
+                        <a href="/project/@work.Id" class="project-card">
+                            <img src="@work.Images[0]" alt="پروژه @work.Title" class="img-fluid radius-10">
+                            <h5 class="mt-20">@work.Title</h5>
+                            <span class="category">@work.WorkCat.Name</span>
+                        </a>
+                    </div>
+                }
             </div>
         </div>
     </section>

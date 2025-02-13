@@ -30,7 +30,7 @@ public class HomeController : Controller
     {
         ViewBag.MetaDescription = "نمونه کارهای زینو سازه شامل انواع سازه های فلزی و پیش ساخته در نمایشگاه های مختلف می باشد.";
         ViewBag.Title = "زینو سازه | نمونه کارها";
-        ViewBag.Works = db.WorkPosts.Include(x=>x.WorkCat).ToList();
+        ViewBag.Works = db.WorkPosts.Include(x => x.WorkCat).ToList();
         ViewBag.Categories = db.WorkCats.ToList();
         return View();
     }
@@ -40,11 +40,23 @@ public class HomeController : Controller
         ViewBag.Title = "زینو سازه | تماس با ما";
         return View();
     }
-    public IActionResult Project()
+    public IActionResult Project(int Id = 0)
     {
+
+        if (Id == 0) return RedirectToAction("index");
+        WorkPost? result = db.WorkPosts.Include(x => x.WorkCat).FirstOrDefault(x => x.Id == Id);
+        if (result == null) return RedirectToAction("index");
         ViewBag.MetaDescription = "جزئیات پروژه ی ما رو میتوانید در این قسمت مشاهده کنید.";
-        ViewBag.Title = "زینو سازه | پروژه";
-        return View();
+        ViewBag.Title = $"زینو سازه | پروژه {result.Title}";
+
+        int totalCount = db.WorkPosts.Count();
+        Random random = new Random();
+        int index;
+        if (totalCount < 3) index = 0;
+        else index = random.Next(totalCount - 3);
+        ViewBag.otherProjects = db.WorkPosts.Skip(index).Take(3).Include(x => x.WorkCat).ToList();
+
+        return View(result);
     }
 
 }
