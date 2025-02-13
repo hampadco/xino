@@ -1,11 +1,13 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using xino.Models;
-
-namespace xino.Controllers;
+using Microsoft.EntityFrameworkCore;
 
 public class HomeController : Controller
 {
+    private readonly Context db;
+    public HomeController(Context _db)
+    {
+        db = _db;
+    }
     public IActionResult Index()
     {
         ViewBag.MetaDescription = "زینو سازه ارائه دهنده خدمات مهندسی و ساختمانی و تولید کننده انواع سازه های فلزی و پیش ساخته در ایران می باشد.";
@@ -28,6 +30,8 @@ public class HomeController : Controller
     {
         ViewBag.MetaDescription = "نمونه کارهای زینو سازه شامل انواع سازه های فلزی و پیش ساخته در نمایشگاه های مختلف می باشد.";
         ViewBag.Title = "زینو سازه | نمونه کارها";
+        ViewBag.Works = db.WorkPosts.Include(x=>x.WorkCat).ToList();
+        ViewBag.Categories = db.WorkCats.ToList();
         return View();
     }
     public IActionResult Contact()

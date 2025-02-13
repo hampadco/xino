@@ -882,6 +882,114 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\230662f9-3ef6-4f48-a5c8-2ada306554e5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>images/Upload/1399/230662f9-3ef6-4f48-a5c8-2ada306554e5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fekdljkz43</Fingerprint>
+      <Integrity>efYRH7JKPLXXSMLK1CpL2aHjAs+tXqquNxpt3RUXOwQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\230662f9-3ef6-4f48-a5c8-2ada306554e5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\4965bfb7-2856-43e3-897d-057e6c5460b8.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>images/Upload/1399/4965bfb7-2856-43e3-897d-057e6c5460b8.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ff5bph4ft8</Fingerprint>
+      <Integrity>xXJThkpv1RinJvTK/DGW1Oq8/TsTiSd30teNSE7+7LU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\4965bfb7-2856-43e3-897d-057e6c5460b8.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\4a03460d-ff89-4294-893a-68d93691145f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>images/Upload/1399/4a03460d-ff89-4294-893a-68d93691145f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xgmgs4ejv0</Fingerprint>
+      <Integrity>waGEe9sSDj1C2y2mAva6tVxtexoeYe2E+TWO3s1p/7g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\4a03460d-ff89-4294-893a-68d93691145f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\aee3a9d5-c9b1-4750-a065-843918ed357f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>images/Upload/1399/aee3a9d5-c9b1-4750-a065-843918ed357f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nb3pixlgbu</Fingerprint>
+      <Integrity>7Vze6VYWUVnUS2ZLbSduiHKTY0m1w1Z1dORgp6Zj0xw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\aee3a9d5-c9b1-4750-a065-843918ed357f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\ce33705d-b581-484a-891e-3d3ee2f57cd6.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>images/Upload/1399/ce33705d-b581-484a-891e-3d3ee2f57cd6.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m1mwpgd9z5</Fingerprint>
+      <Integrity>Zr/i2BXbUmW9Phd8U68NVS4KQCQ3iuQLU+PDtBXUjQk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\ce33705d-b581-484a-891e-3d3ee2f57cd6.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\dbdcde74-7029-4cf7-b051-d1234f369a67.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>xino</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/xino</BasePath>
+      <RelativePath>images/Upload/1399/dbdcde74-7029-4cf7-b051-d1234f369a67.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gc2hy4wswx</Fingerprint>
+      <Integrity>4Of8QARMCPq+N+VLTX4qZKQricQfl0QPAy4Jwi1D6yQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Upload\1399\dbdcde74-7029-4cf7-b051-d1234f369a67.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
       <SourceId>xino</SourceId>
