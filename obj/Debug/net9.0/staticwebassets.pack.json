@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\avatar4.png"
     },
     {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.png"
+    },
+    {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\caret-left-solid.svg",
       "PackagePath": "staticwebassets\\assets\\img\\caret-left-solid.svg"
     },

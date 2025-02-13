@@ -167,7 +167,6 @@ C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\kcvld4vdz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\3kl5ndtszx-1lsged9k26.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\29wli77ucs-oevrw35yjr.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\7a7g0s7l7x-462noptjig.gz
-C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\w4mefqilub-o41t2bnn1b.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\2d6rg0wbvo-2omjt04a4f.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\gqi227hr57-vtd7nhzb9b.gz
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\w7t4wn9p10-ehgnz7f14e.gz
@@ -259,3 +258,4 @@ C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\refint\xino.dll
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\xino.pdb
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\xino.genruntimeconfig.cache
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\ref\xino.dll
+C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\w4mefqilub-p37t97josm.gz

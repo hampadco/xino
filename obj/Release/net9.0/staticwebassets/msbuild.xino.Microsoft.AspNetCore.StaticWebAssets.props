@@ -318,8 +318,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kk3379mzsh</Fingerprint>
-      <Integrity>1H9zRfNLgVo92Ewg78sAA4FG9+wZz0FEVjwQ6nRZHqo=</Integrity>
+      <Fingerprint>yugw4ro37a</Fingerprint>
+      <Integrity>ptLvF+zJCPn/MfJaIQrKQ7hfT6Ob/cF4QwjrBpPV2Vc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\icons\xino.png'))</OriginalItemSpec>
@@ -642,8 +642,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>o41t2bnn1b</Fingerprint>
-      <Integrity>+CjsgB1XQAxc5BjxdPJf37RP4rxuugAy2JxB65GgwwY=</Integrity>
+      <Fingerprint>p37t97josm</Fingerprint>
+      <Integrity>y+FhxM7OMyrE9XC86cml/GmC1xIsUcEhSRQi6ubJkPQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\home_1.js'))</OriginalItemSpec>
