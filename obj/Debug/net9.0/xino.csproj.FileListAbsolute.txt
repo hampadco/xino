@@ -258,4 +258,5 @@ C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\refint\xino.dll
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\xino.pdb
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\xino.genruntimeconfig.cache
 C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\ref\xino.dll
-C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\w4mefqilub-p37t97josm.gz
+C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\xino.sourcelink.json
+C:\Users\asemn\Desktop\xinosaze - mvc\xino\obj\Debug\net9.0\compressed\w4mefqilub-h5u3afkutk.gz

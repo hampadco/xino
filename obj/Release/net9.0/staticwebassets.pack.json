@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\bg.png"
     },
     {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.zip",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.zip"
+    },
+    {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\caret-left-solid.svg",
       "PackagePath": "staticwebassets\\assets\\img\\caret-left-solid.svg"
     },
@@ -91,6 +95,10 @@
     {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\xino.png"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\xino2.png"
     },
     {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",

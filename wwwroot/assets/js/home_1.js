@@ -101,7 +101,8 @@ $(document).ready(function () {
   //       });
   //     });
   // }
-  if (window.innerWidth > 991) {  // Only run on desktop
+  // if (window.innerWidth > 991) {  // Only run on desktop
+  if (true) {  // Only run on desktop
     gsap.utils
       .toArray(".ui-portfolio-st1 .portfolio-slider .item")
       .forEach((item) => {

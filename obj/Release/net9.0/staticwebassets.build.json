@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qw5b6YckVSWlrqO/hnWH/yeScWqzlroQRWEIw+MlLeQ=",
+  "Hash": "t0DS93Yy3PVBf/Wd9DLGczA1Bv1PKQ/b0o0S53zHHGI=",
   "Source": "xino",
   "BasePath": "_content/xino",
   "Mode": "Default",
@@ -2341,11 +2341,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m56nc8jygj",
-      "Integrity": "FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM=",
+      "Fingerprint": "4fm3jbifek",
+      "Integrity": "wIyORrDpMBXH4aLCX2J6uzNTgxbC3ipLZiEPkel/9Zw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg.png"
+    },
+    {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.zip",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/bg#[.{fingerprint}]?.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7gdtfx62x8",
+      "Integrity": "qaPjludZogzeK1ekO39mSaNrxTssNr7Kw+fL5mHIvuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\bg.zip"
     },
     {
       "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\caret-left-solid.svg",
@@ -2488,11 +2509,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "a1cmtyg4gc",
+      "Integrity": "khTFa/Bq3xqc3H8Tga4XxiazlN4U52BAbRKTXKcxOKE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\xino.png"
+    },
+    {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino2.png",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/icons/xino2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
       "Fingerprint": "yugw4ro37a",
       "Integrity": "ptLvF+zJCPn/MfJaIQrKQ7hfT6Ob/cF4QwjrBpPV2Vc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\xino.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\xino2.png"
     },
     {
       "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\logo.svg",
@@ -12479,7 +12521,7 @@
       ]
     },
     {
-      "Route": "assets/img/bg.m56nc8jygj.png",
+      "Route": "assets/img/bg.4fm3jbifek.png",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12489,7 +12531,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396803"
+          "Value": "786426"
         },
         {
           "Name": "Content-Type",
@@ -12497,11 +12539,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM=\""
+          "Value": "\"wIyORrDpMBXH4aLCX2J6uzNTgxbC3ipLZiEPkel/9Zw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 22:51:21 GMT"
+          "Value": "Sat, 15 Feb 2025 09:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12511,7 +12553,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m56nc8jygj"
+          "Value": "4fm3jbifek"
         },
         {
           "Name": "label",
@@ -12519,7 +12561,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM="
+          "Value": "sha256-wIyORrDpMBXH4aLCX2J6uzNTgxbC3ipLZiEPkel/9Zw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/bg.7gdtfx62x8.zip",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.zip",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "784383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-zip-compressed"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qaPjludZogzeK1ekO39mSaNrxTssNr7Kw+fL5mHIvuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 09:41:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7gdtfx62x8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/bg.zip"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qaPjludZogzeK1ekO39mSaNrxTssNr7Kw+fL5mHIvuU="
         }
       ]
     },
@@ -12534,7 +12621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396803"
+          "Value": "786426"
         },
         {
           "Name": "Content-Type",
@@ -12542,11 +12629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM=\""
+          "Value": "\"wIyORrDpMBXH4aLCX2J6uzNTgxbC3ipLZiEPkel/9Zw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 22:51:21 GMT"
+          "Value": "Sat, 15 Feb 2025 09:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12556,7 +12643,44 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM="
+          "Value": "sha256-wIyORrDpMBXH4aLCX2J6uzNTgxbC3ipLZiEPkel/9Zw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/bg.zip",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.zip",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "784383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-zip-compressed"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qaPjludZogzeK1ekO39mSaNrxTssNr7Kw+fL5mHIvuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 09:41:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qaPjludZogzeK1ekO39mSaNrxTssNr7Kw+fL5mHIvuU="
         }
       ]
     },
@@ -13403,6 +13527,51 @@
       ]
     },
     {
+      "Route": "assets/img/icons/xino.a1cmtyg4gc.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khTFa/Bq3xqc3H8Tga4XxiazlN4U52BAbRKTXKcxOKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 09:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1cmtyg4gc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/icons/xino.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-khTFa/Bq3xqc3H8Tga4XxiazlN4U52BAbRKTXKcxOKE="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/icons/xino.eovtc4my7z.jpg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.jpg",
       "Selectors": [],
@@ -13495,6 +13664,43 @@
         },
         {
           "Name": "Content-Length",
+          "Value": "175115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khTFa/Bq3xqc3H8Tga4XxiazlN4U52BAbRKTXKcxOKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 09:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-khTFa/Bq3xqc3H8Tga4XxiazlN4U52BAbRKTXKcxOKE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/icons/xino2.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
           "Value": "31214"
         },
         {
@@ -13522,8 +13728,8 @@
       ]
     },
     {
-      "Route": "assets/img/icons/xino.yugw4ro37a.png",
-      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino.png",
+      "Route": "assets/img/icons/xino2.yugw4ro37a.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\xino2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13558,7 +13764,7 @@
         },
         {
           "Name": "label",
-          "Value": "assets/img/icons/xino.png"
+          "Value": "assets/img/icons/xino2.png"
         },
         {
           "Name": "integrity",
