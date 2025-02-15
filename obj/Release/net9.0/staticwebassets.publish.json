@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "okAmtdC+th/n2sx01sGr18k1Yv2eYko0f61/5NnUAlg=",
+  "Hash": "jJkA8cGPIzdCWFrNBWLU2duekuxWR69oITccSSL5D3Y=",
   "Source": "xino",
   "BasePath": "_content/xino",
   "Mode": "Default",
@@ -4322,6 +4322,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\avatar4.png"
     },
     {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.png",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/bg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m56nc8jygj",
+      "Integrity": "FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\bg.png"
+    },
+    {
       "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\caret-left-solid.svg",
       "SourceId": "xino",
       "SourceType": "Discovered",
@@ -4362,6 +4383,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero2.jpg",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/hero2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "enrke6ni6o",
+      "Integrity": "BqEZ2ddfDru6a0tK+UqDm7vaNT/nOED+jsvVhro1YU0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\hero2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero3.jpg",
+      "SourceId": "xino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\",
+      "BasePath": "_content/xino",
+      "RelativePath": "assets/img/hero3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z60ecfk14w",
+      "Integrity": "e6D8wTtoX3BiMiszdygcJ3603epaYExBhdS7JV8boQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\hero3.jpg"
     },
     {
       "Identity": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\layers.svg",
@@ -16355,6 +16418,88 @@
       ]
     },
     {
+      "Route": "assets/img/bg.m56nc8jygj.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "396803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:51:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m56nc8jygj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/bg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/bg.png",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "396803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:51:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FiWYzFB6KuCYhpZWb6H9pEYlVy5Uulw4K7Ui03ApfRM="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/caret-left-solid.bhd653wznd.svg",
       "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\obj\\Release\\net9.0\\compressed\\hg7vy1bxgm-bhd653wznd.gz",
       "Selectors": [
@@ -16947,6 +17092,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-pFMMCS9oEURkch5A3DSF7F90zeUeKprj3xo725C02Vs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/hero2.enrke6ni6o.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqEZ2ddfDru6a0tK+UqDm7vaNT/nOED+jsvVhro1YU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 20:07:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "enrke6ni6o"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/hero2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqEZ2ddfDru6a0tK+UqDm7vaNT/nOED+jsvVhro1YU0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/hero2.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqEZ2ddfDru6a0tK+UqDm7vaNT/nOED+jsvVhro1YU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 20:07:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqEZ2ddfDru6a0tK+UqDm7vaNT/nOED+jsvVhro1YU0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/hero3.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6D8wTtoX3BiMiszdygcJ3603epaYExBhdS7JV8boQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 20:06:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6D8wTtoX3BiMiszdygcJ3603epaYExBhdS7JV8boQI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/hero3.z60ecfk14w.jpg",
+      "AssetFile": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6D8wTtoX3BiMiszdygcJ3603epaYExBhdS7JV8boQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 20:06:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z60ecfk14w"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/hero3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6D8wTtoX3BiMiszdygcJ3603epaYExBhdS7JV8boQI="
         }
       ]
     },

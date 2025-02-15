@@ -61,12 +61,24 @@
       "PackagePath": "staticwebassets\\assets\\img\\avatar4.png"
     },
     {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.png"
+    },
+    {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\caret-left-solid.svg",
       "PackagePath": "staticwebassets\\assets\\img\\caret-left-solid.svg"
     },
     {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero3.jpg"
     },
     {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\layers.svg",

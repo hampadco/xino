@@ -73,6 +73,14 @@
       "PackagePath": "staticwebassets\\assets\\img\\hero1.jpg"
     },
     {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\hero3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero3.jpg"
+    },
+    {
       "Id": "C:\\Users\\asemn\\Desktop\\xinosaze - mvc\\xino\\wwwroot\\assets\\img\\icons\\layers.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\layers.svg"
     },
