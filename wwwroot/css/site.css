@@ -1,3 +1,9 @@
+@import url('nazanin-font.css');
+
+* {
+  font-family: 'BNazanin', sans-serif !important;
+}
+
 html {
   font-size: 14px;
 }

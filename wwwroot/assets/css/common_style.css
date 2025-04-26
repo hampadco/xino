@@ -1,9 +1,17 @@
+@font-face {
+  font-family: 'BNazanin';
+  src: url('../../fonts/BNazanin.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* Prevent text selection */
 *, *::before, *::after {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  font-family: 'BNazanin', sans-serif !important;
 }
 
 /* ========= [ * helper ]  =========*/
@@ -1187,7 +1195,7 @@ html::-webkit-scrollbar-corner {
   border-radius: 10px; }
 
 body {
-  font-family: 'telegraf';
+  font-family: 'BNazanin', sans-serif;
   text-decoration: none;
   font-size: 14px;
   overflow-x: hidden;
@@ -1248,10 +1256,8 @@ canvas {
   z-index: 3;
   background: transparent; }
 
-
-
 .text-light {
-  font-family: 'telegraf-light'; }
+  font-family: 'BNazanin', sans-serif; }
 
 /* --------------- swiper slider --------------- */
 .swiper-container {
@@ -1301,7 +1307,7 @@ canvas {
     .arrows-st1 .swiper-button-next::after,
     .arrows-st1 .swiper-button-prev::after {
       content: "\f175";
-      font-family: "Font Awesome 6 Pro";
+      font-family: "Font Awesome 6 Pro" !important;
       font-weight: 300;
       font-size: 20px;
       color: #fff; }

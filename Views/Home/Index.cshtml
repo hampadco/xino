@@ -1,67 +1,83 @@
 ﻿<!--  Start header  -->
-<header class="ui-header-st1 bg-img">
-    <div class="container text-center">
-        <h1 class="text-uppercase display-4 mb-4">طراحی خلاقانه غرفه‌های نمایشگاهی</h1>
-        <p class="lead mb-5">ما به شما کمک می‌کنیم تا با طراحی‌های منحصر به فرد، برند خود را در نمایشگاه‌ها به
-            نمایش بگذارید.</p>
+<section class="logo-showcase py-5">
+    <div class="container">
+        <!-- Desktop Layout -->
+        <div class="d-none d-md-block">
+            <!-- Top row with images 1 and 2 centered -->
+            <div class="row justify-content-center mt-4 mb-5">
+                <div class="col-md-4 col-lg-3 text-center">
+                    <img src="/images/logo/1.png" alt="Logo 1" class="img-fluid high-quality-img" style="max-width: 90%;">
+                </div>
+                <div class="col-md-4 col-lg-3 text-center">
+                    <img src="/images/logo/2.png" alt="Logo 2" class="img-fluid high-quality-img" style="max-width: 90%; margin-top: 30px;">
+                </div>
+            </div>
+            
+            <!-- Bottom row with images 3 and 4 centered -->
+            <div class="row justify-content-center mb-5">
+                <div class="col-md-4 col-lg-3 text-center">
+                    <img src="/images/logo/3.png" alt="Logo 3" class="img-fluid high-quality-img" style="max-width: 90%;">
+                </div>
+                <div class="col-md-4 col-lg-3 text-center">
+                    <img src="/images/logo/4.png" alt="Logo 4" class="img-fluid high-quality-img" style="max-width: 90%; margin-top: 30px;">
+                </div>
+            </div>
+        </div>
+        
+        <!-- Mobile Layout -->
+        <div class="d-md-none">
+            <div class="text-center mb-5">
+                <img src="/images/logo/1.png" alt="Logo 1" class="img-fluid high-quality-img" style="max-width: 50%;">
+            </div>
+            
+            <div class="text-center mb-5">
+                <img src="/images/logo/3.png" alt="Logo 3" class="img-fluid high-quality-img" style="max-width: 50%;">
+            </div>
+            
+            <div class="text-center mb-5">
+                <img src="/images/logo/4.png" alt="Logo 4" class="img-fluid high-quality-img" style="max-width: 50%;">
+            </div>
+        </div>
+        
+        <!-- Buttons for both layouts -->
+        <div class="text-center mt-5">
+            <a href="/contact" class="btn btn-primary btn-lg me-3 rounded-pill">تماس با ما</a>
+            <a href="/portfolio" class="btn btn-outline-primary btn-lg rounded-pill">نمایش پروژه ها</a>
+        </div>
     </div>
-</header>
+</section>
+
 <style>
-    .ui-header-st1 {
-        color: #ffffff;
-        /* رنگ متن */
-        height: 100vh;
-        /* ارتفاع هدر به 100% ارتفاع صفحه */
-        display: flex;
-        /* استفاده از فلیکس برای مرکز کردن محتوا */
-        align-items: center;
-        /* مرکز کردن عمودی محتوا */
-        justify-content: center;
-        /* مرکز کردن افقی محتوا */
-        text-align: center;
-        /* مرکز کردن متن */
-        padding: 0 20px;
-        /* فاصله داخلی */
+    .logo-showcase {
+        padding: 50px 0;
     }
-
-    .ui-header-st1 h1 {
-        font-size: 4.5rem;
-        /* اندازه فونت بزرگتر */
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        /* سایه متن برای خوانایی بیشتر */
+    
+    .high-quality-img {
+        image-rendering: -webkit-optimize-contrast;
+        image-rendering: crisp-edges;
+        -ms-interpolation-mode: nearest-neighbor;
+    }
+    
+    .btn-primary {
+        background: linear-gradient(45deg, #2e3192, #1baeea);
+        border: none;
+        padding: 12px 30px;
         font-weight: bold;
-        /* بولد کردن متن */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     }
-
-    .ui-header-st1 p {
-        font-size: 1.5rem;
-        /* اندازه فونت پاراگراف بزرگتر */
-        margin-bottom: 30px;
-        /* فاصله پایین پاراگراف */
-        font-weight: 500;
-        /* وزن فونت برای پاراگراف */
+    
+    .btn-outline-primary {
+        border: 2px solid #2e3192;
+        color: #fff;
+        background: transparent;
+        padding: 12px 30px;
+        font-weight: bold;
     }
-
-    /* Media Query برای موبایل */
-    @@media(max - width: 768px) {
-        .ui-header-st1 {
-            height: auto;
-            /* اجازه به هدر برای تنظیم ارتفاع خود */
-            padding: 50px 20px;
-            /* فاصله داخلی برای موبایل */
-        }
-
-        .ui-header-st1 h1 {
-            font-size: 3rem;
-            /* کاهش اندازه فونت عنوان برای موبایل */
-        }
-
-        .ui-header-st1 p {
-            font-size: 1.2rem;
-            /* کاهش اندازه فونت پاراگراف برای موبایل */
-            margin-bottom: 20px;
-            /* کاهش فاصله پایین پاراگراف */
-        }
+    
+    .btn-outline-primary:hover {
+        background: linear-gradient(45deg, #1baeea, #2e3192);
+        border-color: transparent;
+        color: #fff;
     }
 </style>
 <!--  End header  -->
@@ -86,7 +102,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="img th-500">
-                        <img src="/assets/img/bg.png" alt="" class="img-cover radius-4 wow clippy-img">
+                        <img src="/assets/img/bg.png" alt="" class="img-fluid w-100 radius-4 wow clippy-img" style="object-fit: contain; max-height: 100%; height: auto;">
                     </div>
                 </div>
                 <div class="col-lg-2">
